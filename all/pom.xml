@@ -186,19 +186,19 @@
         <dependency>
             <groupId>com.aem.geeks.integrations</groupId>
             <artifactId>aem-integrations.ui.apps</artifactId>
-            <version>${project.version}</version>
+            <version>${build.version}</version>
             <type>zip</type>
         </dependency>
         <dependency>
             <groupId>com.aem.geeks.integrations</groupId>
             <artifactId>aem-integrations.ui.content</artifactId>
-            <version>${project.version}</version>
+            <version>${build.version}</version>
             <type>zip</type>
         </dependency>
         <dependency>
             <groupId>com.aem.geeks.integrations</groupId>
             <artifactId>aem-integrations.ui.config</artifactId>
-            <version>${project.version}</version>
+            <version>${build.version}</version>
             <type>zip</type>
         </dependency>
 

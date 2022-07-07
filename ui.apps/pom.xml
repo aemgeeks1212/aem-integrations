@@ -117,20 +117,20 @@
         <dependency>
             <groupId>com.aem.geeks.integrations</groupId>
             <artifactId>aem-integrations.core</artifactId>
-            <version>${project.version}</version>
+            <version>${build.version}</version>
         </dependency>
 
-        <dependency>
+        <!--<dependency>
             <groupId>com.aem.geeks.integrations</groupId>
             <artifactId>aem-integrations.ui.frontend</artifactId>
-            <version>${project.version}</version>
+            <version>${build.version}</version>
             <type>zip</type>
-        </dependency>
+        </dependency>-->
 
         <dependency>
             <groupId>com.aem.geeks.integrations</groupId>
             <artifactId>aem-integrations.ui.apps.structure</artifactId>
-            <version>${project.version}</version>
+            <version>${build.version}</version>
             <type>zip</type>
         </dependency>
 
